@@ -32,7 +32,7 @@ DEBUG = True
 ALLOWED_HOSTS = ['*']
 X_FRAME_OPTIONS ='*'
 CORS_ORIGIN_ALLOW_ALL = True
-CSRF_TRUSTED_ORIGINS = ['http://127.0.0.1:8000/', 'http://0.0.0.0:3000/']
+CSRF_TRUSTED_ORIGINS = ['http://127.0.0.1:8000/','https://synamatics-backend-.gowthamk14.repl.co', 'http://0.0.0.0:3000/']
 
 # Application definition
 
